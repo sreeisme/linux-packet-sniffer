@@ -1,5 +1,5 @@
 #Linux Packet Sniffer
-To tun:
+To run:
 ```bash
 git clone https://github.com/sreeisme/linux-packet-sniffer.git
 cd linux-packet-sniffer
